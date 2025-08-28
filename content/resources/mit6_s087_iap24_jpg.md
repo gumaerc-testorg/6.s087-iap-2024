@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/foundation-models-and-generative-ai/mit6_s087_iap24.jpg
+file: /ol-ocw-studio-app/courses/6-s087-foundation-models-and-generative-ai-january-iap-2024/mit6_s087_iap24.jpg
 file_size: 615235
 file_type: image/jpeg
 image_metadata:
